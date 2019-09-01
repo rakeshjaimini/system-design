@@ -4,6 +4,5 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - crawler.md
   - README.md
 theme: jekyll-theme-cayman
